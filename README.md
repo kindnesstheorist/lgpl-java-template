@@ -10,8 +10,6 @@ with, instead of a bunch of copying and pasting and crossing my fingers to get
 configuration details right, forking a program that I already know has done
 everything I would do for setup.
 
-00090940692047745107432483186086549955702394525081673865916612563426870519406801
-
 Usage: Fork repository. Give descriptive name to fork, or "test"+i if you don't
 feel like it. Rename Java package to something equally unique, possibly the same
 thing. Compile and run code. Push changes to the forked repository.
